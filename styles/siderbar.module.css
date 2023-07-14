@@ -1,0 +1,19 @@
+.sidebar {
+    width: 15%;
+    background-color: #212529;
+    min-height: 100vh;
+  }
+
+  .sidebarContent {
+    height: 100%;
+  }
+  
+  .nav-item.active a {
+    background-color: #17a2b8;
+  }
+  
+  .nav-item .active-link {
+    color: #17a2b8;
+  }
+
+ 
